@@ -423,7 +423,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [Documentation](https://docs.licensechain.com/polygon-sdk)
+- [Documentation](https://docs.licensechain.app/polygon-sdk)
 - [GitHub Repository](https://github.com/LicenseChain/LicenseChain-Polygon-SDK)
 - [NPM Package](https://www.npmjs.com/package/@licensechain/polygon-sdk)
 - [Discord Community](https://discord.gg/licensechain)
@@ -431,9 +431,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- 📧 Email: support@licensechain.com
+- 📧 Email: support@licensechain.app
 - 💬 Discord: [LicenseChain Community](https://discord.gg/licensechain)
-- 📖 Documentation: [docs.licensechain.com](https://docs.licensechain.com)
+- 📖 Documentation: [docs.licensechain.app](https://docs.licensechain.app)
 - 🐛 Issues: [GitHub Issues](https://github.com/LicenseChain/LicenseChain-Polygon-SDK/issues)
 
 ---
